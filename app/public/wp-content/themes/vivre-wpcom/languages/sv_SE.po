@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Vivre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-12T04:13:35+00:00\n"
+"PO-Revision-Date: 2023-09-11 11:41:55+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr "Work Sans"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Petrona"
+msgstr "Petrona"
+
+#: patterns/recipe.php:30
+msgid "Preparation"
+msgstr "Förberedelse"
+
+#: patterns/reviews.php:22
+msgid "The Fisherman"
+msgstr "The Fisherman"
+
+#: patterns/reviews.php:26
+#: patterns/reviews.php:52
+#: patterns/reviews.php:97
+msgid "Nearly all the province of Gallura, washed by the Mediterranean on three sides, consists of mountainous tracts, with valleys intervening, similar to this of the Liscia."
+msgstr "Nästan hela Gallura-provinsen, som omges av Medelhavet på tre sidor, består av bergiga områden med enstaka dalar, liknande denna i Liscia."
+
+#: patterns/reviews.php:35
+#: patterns/reviews.php:61
+#: patterns/reviews.php:106
+msgid "Get Directions →"
+msgstr "Hämta vägbeskrivning →"
+
+#: patterns/reviews.php:48
+msgid "Ramen Bar"
+msgstr "Ramen Bar"
+
+#: patterns/reviews.php:93
+msgid "Home Sweet Bistro"
+msgstr "Home Sweet Bistro"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Tom"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr "Endast sidhuvud och sidfot"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Footer Only"
+msgstr "Endast sidfot"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Förgrund"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Bakgrund"
+
+#: patterns/reviews.php:30
+msgid "$$$$"
+msgstr "$$$$"
+
+#: patterns/reviews.php:56
+msgid "$$$"
+msgstr "$$$"
+
+#: patterns/reviews.php:101
+msgid "$$"
+msgstr "$$"
+
+#: patterns/reviews.php
+msgctxt "Pattern title"
+msgid "Reviews"
+msgstr "Recensioner"
+
+#: patterns/recipe.php:26
+msgid "Ice (optional)"
+msgstr "Is (valfritt)"
+
+#: patterns/reviews.php:56
+#: patterns/reviews.php:101
+msgid "Our review: 4/5"
+msgstr "Vår recension: 4/5"
+
+#: patterns/reviews.php:56
+msgid " Asian, Japanese"
+msgstr " Asiatisk, japansk"
+
+#: patterns/reviews.php:30
+msgid "Our review: 5/5"
+msgstr "Vår recension: 5/5"
+
+#: patterns/reviews.php:30
+msgid " French, European, Healthy"
+msgstr " Fransk, europeisk, hälsosam"
+
+#: patterns/reviews.php:101
+msgid " Italian, Mediterranean, Tapas"
+msgstr "Italiensk, medelhav, tapas"
+
+#: patterns/recipe.php:26
+msgid "1/8 teaspoon kosher salt"
+msgstr "1/8 tesked kosher salt"
+
+#: patterns/recipe.php:26
+msgid "1 tablespoon creamy peanut butter"
+msgstr "1 matsked krämig jordnötssmör"
+
+#: patterns/recipe.php:26
+msgid "1/2 teaspoon pure vanilla extract"
+msgstr "1/2 tesked ren vaniljextrakt"
+
+#: patterns/recipe.php:26
+msgid "1/2 tablespoon pure maple syrup plus additional to taste"
+msgstr "1/2 matsked ren lönnsirap plus ytterligare efter smak"
+
+#: patterns/recipe.php:26
+msgid "1/2 cup unsweetened almond milk"
+msgstr "1/2 kopp osötad mandelmjölk"
+
+#: patterns/recipe.php:26
+msgid "1 banana chopped into chunks and frozen"
+msgstr "1 banan hackad i bitar och fryst"
+
+#: patterns/recipe.php:26
+msgid "1/4 cup old-fashioned oats or quick oats"
+msgstr "1/4 kopp gammaldags havre eller snabbhavre"
+
+#: patterns/recipe.php:26
+msgid "1/2 teaspoon ground cinnamon"
+msgstr "1/2 tesked malen kanel"
+
+#: patterns/post-navigation.php:23
+msgid "Next Post"
+msgstr "Nästa inlägg"
+
+#: patterns/posts-grid.php
+msgctxt "Pattern title"
+msgid "Posts grid"
+msgstr "Inläggsrutnät"
+
+#: patterns/posts-list.php
+msgctxt "Pattern title"
+msgid "Posts list"
+msgstr "Inläggslista"
+
+#: patterns/recent-posts.php:13
+msgid "Recent posts"
+msgstr "Senaste inläggen"
+
+#: patterns/recipe.php:18
+msgid "Prep Time: 11 mins · Servings: 2"
+msgstr "Förberedelsetid: 11 minuter · Portioner: 2"
+
+#: patterns/recipe.php:22
+msgid "Ingredients"
+msgstr "Ingredienser"
+
+#: patterns/recipe.php
+msgctxt "Pattern title"
+msgid "Recipe"
+msgstr "Recept"
+
+#: patterns/recent-posts.php
+msgctxt "Pattern title"
+msgid "Recent posts"
+msgstr "Senaste inläggen"
+
+#: patterns/recipe.php:10
+msgid "Two cups of smoothies topped with chia seeds, accompanied by a spoon full of peanut butter."
+msgstr "Två koppar smoothies toppade med chiafrön, tillsammans med en sked full med jordnötssmör."
+
+#: patterns/hidden-post-terms-and-date.php
+#: patterns/hidden-search-form.php
+msgctxt "Pattern title"
+msgid "Tags and date"
+msgstr "Etikett och datum"
+
+#: patterns/paragraph-right-aligned-quote.php:10
+#: patterns/recipe.php:42
+msgid "Then warm the plate and wipe off the wax, or wash it off with spirits of turpentine, and rub the plate with fine dry whiting. The next instrument to proceed with is the graver; consisting of a blade of steel about three inches long, which is fixed in a convenient handle like an awl."
+msgstr "Värm sedan plattan och torka av vaxet, eller tvätta bort det med terpentin och gnugga plattan med fin torr krita. Nästa instrument att gå vidare med är gravyrstickeln. Den består av ett stålblad som är cirka tre tum långt och fixerat i ett praktiskt handtag, som en syl."
+
+#: patterns/paragraph-right-aligned-quote.php:16
+msgid "The form of the graver should be triangular, or between a triangle and lozenge, having two sides plane and the other round or swelled; and should taper regularly from the handle to the point, or nearly so, but the point must be ground off obliquely so that the edge may extend a little farther than the back; and the edge should rise a little rounding towards the point."
+msgstr "Gravyrstickelns form bör vara triangulär, eller ett mellanting mellan en triangel och en pastill, med två plana sidor och den tredje sidan rundad eller svälld. Den bör även smalna av från handtaget till spetsen, eller nästan så. Spetsen måste dock slipas av snett, så att kanten kan sträcka sig något längre än baksidan, och kanten ska höja sig med en liten rundning mot spetsen."
+
+#: patterns/post-navigation.php
+msgctxt "Pattern title"
+msgid "Post Navigation"
+msgstr "Inläggsnavigering"
+
+#: patterns/post-navigation.php:17
+msgid "Previous Post"
+msgstr "Föregående inlägg"
+
+#: patterns/paragraph-right-aligned-quote.php
+msgctxt "Pattern title"
+msgid "Paragraph with Right Aligned Quote"
+msgstr "Stycke med högerjusterat citat"
+
+#: patterns/footer.php:18
+msgid "https://wordpress.org"
+msgstr "https://sv.wordpress.org"
+
+#: patterns/footer.php:29
+msgid "Instagram"
+msgstr "Instagram"
+
+#: patterns/footer.php:39
+msgid "Twitter"
+msgstr "Twitter"
+
+#: patterns/gallery.php
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr "Galleri"
+
+#: patterns/hero-post.php:16
+msgid "Read more"
+msgstr "Läs mer"
+
+#: patterns/footer.php:29
+msgid "https://instagram.com"
+msgstr "https://instagram.com"
+
+#: patterns/footer.php:39
+msgid "https://twitter.com"
+msgstr "https://twitter.com"
+
+#: patterns/gallery.php:13
+msgid "Recent photos"
+msgstr "Senaste foton"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Standardsidfot"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "En 404-sida"
+
+#: patterns/404.php:11
+msgid "Uh-oh."
+msgstr "Ojdå."
+
+#: patterns/404.php:15
+msgid "This page could not be found. Try searching posts using the field below."
+msgstr "Denna sida kunde inte hittas. Prova söka inlägg med fältet nedan."
+
+#: patterns/404.php:18
+#: patterns/hidden-search-form.php:11
+#: patterns/hidden-search-form.php:13
+msgid "Search"
+msgstr "Sök"
+
+#. Description of the theme
+msgid "Vivre is a bold, opinionated blogging theme, heavily inspired by fashion and lifestyle magazines and websites."
+msgstr "Vivre är ett djärvt, egensinnigt bloggtema, starkt inspirerat av mode- och livsstilsmagasin och webbplatser."
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/vivre"
+msgstr "https://wordpress.com/theme/vivre"
+
+#. Theme Name of the theme
+msgid "Vivre"
+msgstr "Vivre"

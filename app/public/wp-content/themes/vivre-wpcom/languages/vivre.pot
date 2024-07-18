@@ -1,0 +1,369 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vivre 1.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/vivre\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-04T05:22:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: vivre\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Vivre"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/vivre"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Vivre is a bold, opinionated blogging theme, heavily inspired by fashion and lifestyle magazines and websites."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "Uh-oh."
+msgstr ""
+
+#: patterns/404.php:15
+msgid "This page could not be found. Try searching posts using the field below."
+msgstr ""
+
+#: patterns/404.php:18
+#: patterns/hidden-search-form.php:11
+#: patterns/hidden-search-form.php:13
+msgid "Search"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:17
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: patterns/footer.php:18
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:29
+msgid "https://instagram.com"
+msgstr ""
+
+#: patterns/footer.php:29
+msgid "Instagram"
+msgstr ""
+
+#: patterns/footer.php:39
+msgid "https://twitter.com"
+msgstr ""
+
+#: patterns/footer.php:39
+msgid "Twitter"
+msgstr ""
+
+#: patterns/gallery.php
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr ""
+
+#: patterns/gallery.php:13
+msgid "Recent photos"
+msgstr ""
+
+#: patterns/hero-post.php
+msgctxt "Pattern title"
+msgid "Hero Post"
+msgstr ""
+
+#: patterns/hero-post.php:16
+msgid "Read more"
+msgstr ""
+
+#: patterns/hidden-post-terms-and-date.php
+#: patterns/hidden-search-form.php
+msgctxt "Pattern title"
+msgid "Tags and date"
+msgstr ""
+
+#: patterns/paragraph-right-aligned-quote.php
+msgctxt "Pattern title"
+msgid "Paragraph with Right Aligned Quote"
+msgstr ""
+
+#: patterns/paragraph-right-aligned-quote.php:10
+#: patterns/recipe.php:42
+msgid "Then warm the plate and wipe off the wax, or wash it off with spirits of turpentine, and rub the plate with fine dry whiting. The next instrument to proceed with is the graver; consisting of a blade of steel about three inches long, which is fixed in a convenient handle like an awl."
+msgstr ""
+
+#: patterns/paragraph-right-aligned-quote.php:16
+msgid "The form of the graver should be triangular, or between a triangle and lozenge, having two sides plane and the other round or swelled; and should taper regularly from the handle to the point, or nearly so, but the point must be ground off obliquely so that the edge may extend a little farther than the back; and the edge should rise a little rounding towards the point."
+msgstr ""
+
+#: patterns/paragraph-right-aligned-quote.php:35
+msgid "Any portraits or other figures may be formed on the plate, with due proportion of light and shade."
+msgstr ""
+
+#: patterns/post-comments.php
+msgctxt "Pattern title"
+msgid "Post Comments"
+msgstr ""
+
+#: patterns/post-hero.php
+msgctxt "Pattern title"
+msgid "Single Post Hero"
+msgstr ""
+
+#: patterns/post-navigation.php
+msgctxt "Pattern title"
+msgid "Post Navigation"
+msgstr ""
+
+#: patterns/post-navigation.php:17
+msgid "Previous Post"
+msgstr ""
+
+#: patterns/post-navigation.php:23
+msgid "Next Post"
+msgstr ""
+
+#: patterns/posts-grid.php
+msgctxt "Pattern title"
+msgid "Posts grid"
+msgstr ""
+
+#: patterns/posts-list.php
+msgctxt "Pattern title"
+msgid "Posts list"
+msgstr ""
+
+#: patterns/recent-posts.php
+msgctxt "Pattern title"
+msgid "Recent posts"
+msgstr ""
+
+#: patterns/recent-posts.php:13
+msgid "Recent posts"
+msgstr ""
+
+#: patterns/recipe.php
+msgctxt "Pattern title"
+msgid "Recipe"
+msgstr ""
+
+#: patterns/recipe.php:10
+msgid "Two cups of smoothies topped with chia seeds, accompanied by a spoon full of peanut butter."
+msgstr ""
+
+#: patterns/recipe.php:18
+msgid "Prep Time: 11 mins · Servings: 2"
+msgstr ""
+
+#: patterns/recipe.php:22
+msgid "Ingredients"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "1/4 cup old-fashioned oats or quick oats"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "1 banana chopped into chunks and frozen"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "1/2 cup unsweetened almond milk"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "1 tablespoon creamy peanut butter"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "1/2 tablespoon pure maple syrup plus additional to taste"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "1/2 teaspoon pure vanilla extract"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "1/2 teaspoon ground cinnamon"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "1/8 teaspoon kosher salt"
+msgstr ""
+
+#: patterns/recipe.php:26
+msgid "Ice (optional)"
+msgstr ""
+
+#: patterns/recipe.php:30
+msgid "Preparation"
+msgstr ""
+
+#: patterns/recipe.php:34
+msgid "Then brush over the copy or tracing with dry red ochre, and having rubbed the copper plate with a piece of bees-wax, lay the red side of the tracing on the plate; then with a smooth iron point, trace the same lines again, that they may thus be transferred to the plate by means of the red ochre and wax."
+msgstr ""
+
+#: patterns/recipe.php:38
+msgid "Take up the paper and trace the lines on the plate with a needle, thus scoring the lines slightly on the copper."
+msgstr ""
+
+#: patterns/recipe.php:46
+msgid "The form of the graver should be triangular, or between a triangle and lozenge, having two sides plane and the other round or swelled; and should taper regularly from the handle to the point, or nearly so, but the point must be ground off obliquely so that the edge may extend a little farther than the back; and the edge should rise a little rounding towards the point. It is very essential that the edge and point of the graver should be kept very sharp."
+msgstr ""
+
+#: patterns/reviews.php
+msgctxt "Pattern title"
+msgid "Reviews"
+msgstr ""
+
+#: patterns/reviews.php:22
+msgid "The Fisherman"
+msgstr ""
+
+#: patterns/reviews.php:26
+#: patterns/reviews.php:52
+#: patterns/reviews.php:97
+msgid "Nearly all the province of Gallura, washed by the Mediterranean on three sides, consists of mountainous tracts, with valleys intervening, similar to this of the Liscia."
+msgstr ""
+
+#: patterns/reviews.php:30
+msgid "$$$$"
+msgstr ""
+
+#: patterns/reviews.php:30
+msgid " French, European, Healthy"
+msgstr ""
+
+#: patterns/reviews.php:30
+msgid "Our review: 5/5"
+msgstr ""
+
+#: patterns/reviews.php:35
+#: patterns/reviews.php:61
+#: patterns/reviews.php:106
+msgid "Get Directions →"
+msgstr ""
+
+#: patterns/reviews.php:48
+msgid "Ramen Bar"
+msgstr ""
+
+#: patterns/reviews.php:56
+msgid "$$$"
+msgstr ""
+
+#: patterns/reviews.php:56
+msgid " Asian, Japanese"
+msgstr ""
+
+#: patterns/reviews.php:56
+#: patterns/reviews.php:101
+msgid "Our review: 4/5"
+msgstr ""
+
+#: patterns/reviews.php:93
+msgid "Home Sweet Bistro"
+msgstr ""
+
+#: patterns/reviews.php:101
+msgid "$$"
+msgstr ""
+
+#: patterns/reviews.php:101
+msgid " Italian, Mediterranean, Tapas"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Footer Only"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Petrona"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""

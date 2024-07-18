@@ -1,0 +1,167 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "Inside \u2018The Fisherman\u2019",
+            "post_content": "<!-- wp:paragraph -->\n<p>For this purpose, provide a plate of copper, rather larger than the design that is to be engraved, and may be about one sixteenth of an inch thick; planish by rubbing it, first, directly length-wise, and afterwards breadth-wise with a piece of pumice-stone, which may be dipped occasionally in a mixture of one part nitric acid, with six or seven parts water. Then wash the copper with clear water, and rub it with an oil stone that has a plane surface; and then polish it with a piece of charcoal, that has been ignited to redness and quenched in cold water. Afterwards burnish the copper by rubbing it with polished steel. Lay a piece of transparent paper on the design that is to be engraved, and trace the principal lines with a lead pencil.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Then brush over the copy or tracing with dry red ochre, and having rubbed the copper plate with a piece of bees-wax, lay the red side of the tracing on the plate; then with a smooth iron point, trace the same lines again, that they may thus be transferred to the plate by means of the red ochre and wax. Take up the paper and trace the lines on the plate with a needle, thus scoring the lines slightly on the copper.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:columns {\"align\":\"wide\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"30px\",\"bottom\":\"30px\"}}}} -->\n<div class=\"wp-block-columns alignwide\" style=\"padding-top:30px;padding-bottom:30px;\"><!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%;\"><!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/vivredemo.files.wordpress.com\/2022\/07\/sundae-1.png?w=760\" alt=\"\" class=\"wp-image-75\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"10%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:10%;\"><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"45%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:45%;\"><!-- wp:heading {\"level\":3} -->\n<h3>The Fisherman<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Nearly all the province of Gallura, washed by the Mediterranean on three sides, consists of mountainous tracts, with valleys intervening, similar to this of the Liscia.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\"><strong>$$$$<\/strong> French, European, Healthy<br><em>Our review: 5\/5<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"style\":{\"typography\":{\"textTransform\":\"uppercase\"}},\"fontSize\":\"medium\"} -->\n<div class=\"wp-block-button has-custom-font-size has-medium-font-size\" style=\"text-transform:uppercase;\"><a class=\"wp-block-button__link wp-element-button\">Get Directions \u2192<\/a><\/div>\n<!-- \/wp:button --><\/div>\n<!-- \/wp:buttons --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->",
+            "post_name": "inside-the-fisherman%ef%bf%bc%ef%bf%bc",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 61,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Food"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/sundae-1.png"
+        },
+        {
+            "post_type": "page",
+            "post_title": "About",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%;\"><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"60%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:60%;\"><!-- wp:paragraph -->\n<p>Five years ago, recently married couple Fred and Anna founded Cult, a blog about their passion for design, food and travel. Based between Amsterdam and Tenerife, they have always appreciated the time and care artisans put into manufacturing quality products. They traveled to learn how these products were made, and began documenting their travels.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:heading -->\n<h2>Get in Touch<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:group {\"layout\":{\"type\":\"flex\",\"flexWrap\":\"nowrap\"}} -->\n<div class=\"wp-block-group\"><!-- wp:paragraph -->\n<p>Balboastraat 54 Amsterdam, <br>Noord-Holland, 1234<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>fred@cult.ish \/ anna@cult.ish<br>(123) 456-0987<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:group --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 42,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/noguchi-table-wine-magazines.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Deliciously Healthy",
+            "post_content": "<!-- wp:spacer {\"height\":\"20px\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">Prep Time: 11 mins \u00b7 Servings: 2<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:heading {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"300\",\"lineHeight\":\"2\"}},\"fontSize\":\"x-large\",\"fontFamily\":\"petrona\"} -->\n<h2 class=\"has-petrona-font-family has-x-large-font-size\" style=\"font-style:normal;font-weight:300;line-height:2;\">Ingredients<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p><em>1\/4 cup old-fashioned oats or quick oats<br>1 banana chopped into chunks and frozen<br>1\/2 cup unsweetened almond milk<br>1 tablespoon creamy peanut butter<br>1\/2 tablespoon pure maple syrup plus additional to taste<br>1\/2 teaspoon pure vanilla extract<br>1\/2 teaspoon ground cinnamon<br>1\/8 teaspoon kosher salt<br>Ice (optional)<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:heading {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"300\",\"lineHeight\":\"2\"}},\"fontSize\":\"x-large\",\"fontFamily\":\"petrona\"} -->\n<h2 class=\"has-petrona-font-family has-x-large-font-size\" style=\"font-style:normal;font-weight:300;line-height:2;\">Preparation<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p><em>Then brush over the copy or tracing with dry red ochre, and having rubbed the copper plate with a piece of bees-wax, lay the red side of the tracing on the plate; then with a smooth iron point, trace the same lines again, that they may thus be transferred to the plate by means of the red ochre and wax.<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Take up the paper and trace the lines on the plate with a needle, thus scoring the lines slightly on the copper.<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Then warm the plate and wipe off the wax, or wash it off with spirits of turpentine, and rub the plate with fine dry whiting. The next instrument to proceed with is the graver; consisting of a blade of steel about three inches long, which is fixed in a convenient handle like an awl.<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>The form of the graver should be triangular, or between a triangle and lozenge, having two sides plane and the other round or swelled; and should taper regularly from the handle to the point, or nearly so, but the point must be ground off obliquely so that the edge may extend a little farther than the back; and the edge should rise a little rounding towards the point. It is very essential that the edge and point of the graver should be kept very sharp.<\/em><\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "deliciously-healthy",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 12,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Food"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/vermicelli.png"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Our Wine Tasting Trip in Valle d\u2019Aosta",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%;\"><!-- wp:image {\"id\":433,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https:\/\/s0.wp.com\/wp-content\/themes\/pub\/vivre\/assets\/images\/sundae.png\" alt=\"\" class=\"wp-image-433\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"10%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:10%;\"><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"45%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:45%;\"><!-- wp:heading {\"level\":3} -->\n<h3>The Fisherman<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Nearly all the province of Gallura, washed by the Mediterranean on three sides, consists of mountainous tracts, with valleys intervening, similar to this of the Liscia.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\"><strong>$$$$<\/strong> French, European, Healthy<br><em>Our review: 5\/5<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"style\":{\"typography\":{\"textTransform\":\"uppercase\"}},\"fontSize\":\"medium\"} -->\n<div class=\"wp-block-button\" style=\"text-transform:uppercase;\"><a class=\"wp-block-button__link wp-element-button has-custom-font-size has-medium-font-size\">Get Directions \u2192<\/a><\/div>\n<!-- \/wp:button --><\/div>\n<!-- \/wp:buttons --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":\"40px\"} -->\n<div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"45%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:45%;\"><!-- wp:heading {\"level\":3} -->\n<h3>Ramen Bar<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Nearly all the province of Gallura, washed by the Mediterranean on three sides, consists of mountainous tracts, with valleys intervening, similar to this of the Liscia.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\"><strong>$$$<\/strong> Asian, Japanese<br><em>Our review: 4\/5<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"style\":{\"typography\":{\"textTransform\":\"uppercase\"}},\"fontSize\":\"medium\"} -->\n<div class=\"wp-block-button\" style=\"text-transform:uppercase;\"><a class=\"wp-block-button__link wp-element-button has-custom-font-size has-medium-font-size\">Get Directions \u2192<\/a><\/div>\n<!-- \/wp:button --><\/div>\n<!-- \/wp:buttons --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"9.8%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:9.8%;\"><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%;\"><!-- wp:image {\"id\":439,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https:\/\/s0.wp.com\/wp-content\/themes\/pub\/vivre\/assets\/images\/vermicelli.png\" alt=\"\" class=\"wp-image-439\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":\"40px\"} -->\n<div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%;\"><!-- wp:image {\"id\":78,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/vivredemo.files.wordpress.com\/2022\/07\/wine-tasting.png?w=760\" alt=\"\" class=\"wp-image-78\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"10%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:10%;\"><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"45%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:45%;\"><!-- wp:heading {\"level\":3} -->\n<h3>Home Sweet Bistro<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Nearly all the province of Gallura, washed by the Mediterranean on three sides, consists of mountainous tracts, with valleys intervening, similar to this of the Liscia.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\"><strong>$$<\/strong> Italian, Mediterranean, Tapas<br><em>Our review: 4\/5<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"style\":{\"typography\":{\"textTransform\":\"uppercase\"}},\"fontSize\":\"medium\"} -->\n<div class=\"wp-block-button\" style=\"text-transform:uppercase;\"><a class=\"wp-block-button__link wp-element-button has-custom-font-size has-medium-font-size\">Get Directions \u2192<\/a><\/div>\n<!-- \/wp:button --><\/div>\n<!-- \/wp:buttons --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":\"40px\"} -->\n<div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->",
+            "post_name": "our-wine-tasting-trip-in-valle-daosta",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Wine"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/sundae-1.png"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Wooden Utensils by Maria Horta",
+            "post_content": "<!-- wp:paragraph -->\n<p>Then warm the plate and wipe off the wax, or wash it off with spirits of turpentine, and rub the plate with fine dry whiting. The next instrument to proceed with is the graver; consisting of a blade of steel about three inches long, which is fixed in a convenient handle like an awl.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:columns {\"style\":{\"spacing\":{\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0px\",\"left\":\"0px\"}}}} -->\n<div class=\"wp-block-columns\" style=\"padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p>The form of the graver should be triangular, or between a triangle and lozenge, having two sides plane and the other round or swelled; and should taper regularly from the handle to the point, or nearly so, but the point must be ground off obliquely so that the edge may extend a little farther than the back; and the edge should rise a little rounding towards the point.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column {\"width\":\"10px\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:10px;\"><!-- wp:paragraph {\"fontSize\":\"x-large\"} -->\n<p class=\"has-x-large-font-size\"><em>\u201c<\/em><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"\"} -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.2\",\"fontStyle\":\"normal\",\"fontWeight\":\"500\"}},\"fontSize\":\"x-large\"} -->\n<p class=\"has-x-large-font-size\" style=\"font-style:normal;font-weight:500;line-height:1.2;\">\n<em>Any portraits or other figures may be formed on the plate, with due proportion of light and shade.<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">Unknown<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"20px\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->",
+            "post_name": "wooden-utensils-by-maria-horta",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 3,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Design"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Cult Objects",
+            "post_content": "<!-- wp:heading {\"textAlign\":\"center\",\"level\":4,\"align\":\"wide\",\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"300\",\"lineHeight\":1.3},\"spacing\":{\"margin\":{\"top\":\"40px\",\"bottom\":\"60px\"}}}} -->\n<h4 class=\"alignwide has-text-align-center\" style=\"margin-top:40px;margin-bottom:60px;font-style:normal;font-weight:300;line-height:1.3;\">The Cult Collection by Joan Wilson. A classic collection by the traditional Swedish manufacturer in collaboration with contemporary designer Marianne Lewis.<\/h4>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>For this purpose, provide a plate of copper, rather larger than the design that is to be engraved, and may be about one sixteenth of an inch thick; planish by rubbing it, first, directly length-wise, and afterwards breadth-wise with a piece of pumice-stone, which may be dipped occasionally in a mixture of one part nitric acid, with six or seven parts water. Then wash the copper with clear water, and rub it with an oil stone that has a plane surface; and then polish it with a piece of charcoal, that has been ignited to redness and quenched in cold water. Afterwards burnish the copper by rubbing it with polished steel. Lay a piece of transparent paper on the design that is to be engraved, and trace the principal lines with a lead pencil.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":51,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/vivredemo.files.wordpress.com\/2022\/07\/berry-g88ec1b737_1920.jpg?w=770\" alt=\"\" class=\"wp-image-51\" \/><figcaption class=\"wp-element-caption\">Glass, <a href=\"https:\/\/vivredemo.wordpress.com\/2022\/07\/12\/cult-objects\/\">V\u00e5g Collection<\/a><\/figcaption><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":80,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/vivredemo.files.wordpress.com\/2022\/07\/chemex-concrete.jpeg?w=768\" alt=\"\" class=\"wp-image-80\" \/><figcaption class=\"wp-element-caption\">Coffee set, <a href=\"https:\/\/vivredemo.wordpress.com\/2022\/07\/12\/cult-objects\/\">R\u00e5 Collection<\/a><\/figcaption><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:paragraph -->\n<p>Then brush over the copy or tracing with dry red ochre, and having rubbed the copper plate with a piece of bees-wax, lay the red side of the tracing on the plate; then with a smooth iron point, trace the same lines again, that they may thus be transferred to the plate by means of the red ochre and wax. Take up the paper and trace the lines on the plate with a needle, thus scoring the lines slightly on the copper.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Then warm the plate and wipe off the wax, or wash it off with spirits of turpentine, and rub the plate with fine dry whiting. The next instrument to proceed with is the graver; consisting of a blade of steel about three inches long, which is fixed in a convenient handle like an awl. The form of the graver should be triangular, or between a triangle and lozenge, having two sides plane and the other round or swelled; and should taper regularly from the handle to the point, or nearly so, but the point must be ground off obliquely so that the edge may extend a little farther than the back; and the edge should rise a little rounding towards the point. It is very essential that the edge and point of the graver should be kept very sharp.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "cult-objects",
+            "post_excerpt": "The Cult Collection by Joan Wilson. A classic collection by the traditional Swedish manufacturer in collaboration with contemporary designer Marianne Lewis.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 17,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Featured"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "sticky": true
+        }
+    ],
+    "images": [
+        "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/noguchi-table-wine-magazines.jpg",
+        "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/chemex-concrete.jpeg",
+        "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/wine-tasting.png",
+        "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/sundae-1.png",
+        "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/berry-g88ec1b737_1920.jpg",
+        "https:\/\/vivredemo.files.wordpress.com\/2022\/07\/vermicelli.png"
+    ],
+    "meta": {
+        "blog_id": 208822958,
+        "url": "https:\/\/vivredemo.wordpress.com",
+        "update_date": "July 22, 2022, 7:41 pm",
+        "update_timestamp": 1658518888
+    }
+}
