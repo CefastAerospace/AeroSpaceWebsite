@@ -176,11 +176,11 @@ msgstr "Instalar agora"
 msgid "Created by a worldwide team of passionate individuals"
 msgstr "Criado por uma equipe mundial de pessoas apaixonadas."
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:198
 msgid "Accessibility improvements"
 msgstr "Melhorias na acessibilidade"
 
-#: wp-admin/about.php:123
+#: wp-admin/about.php:179
 msgid "Performance updates"
 msgstr "Atualizações de desempenho"
 
@@ -253,12 +253,12 @@ msgid "When using Bulk Edit, you can change the metadata (categories, author, et
 msgstr "Ao usar a Edição em Massa, você pode alterar os metadados (categorias, autor, etc.) de todas as postagens selecionadas de uma vez. Para remover uma postagem do grupo, basta clicar no botão %s<span class=\"screen-reader-text\">remover</span> bao lado do nome dela na área de Edição em Massa que aparece."
 
 #. translators: 1: WordPress Release Notes link, 2: WordPress version number.
-#: wp-admin/about.php:221
+#: wp-admin/about.php:277
 msgid "<a href=\"%1$s\">Read the WordPress %2$s Release Notes</a> for information on installation, enhancements, fixed issues, release contributors, learning resources, and the list of file changes."
 msgstr "<a href=\"%1$s\">Leia as notas de lançamento do WordPress %2$s</a> para obter informações sobre instalação, melhorias, problemas corrigidos, colaboradores do lançamento, recursos de aprendizado e a lista de arquivos alterados."
 
 #. translators: 1: WordPress Field Guide link, 2: WordPress version number.
-#: wp-admin/about.php:202
+#: wp-admin/about.php:258
 msgid "Explore the <a href=\"%1$s\">WordPress %2$s Field Guide</a>. Learn about the changes in this release with detailed developer notes to help you build with WordPress."
 msgstr "Explore o <a href=\"%1$s\">Guia de campo do WordPress %2$s</a>. Saiba mais sobre as mudanças nesta versão com notas detalhadas para desenvolvedores, que ajudarão você a construir com o WordPress."
 
@@ -277,6 +277,11 @@ msgstr "A versão atual do PHP no seu servidor é %1$s, no entanto a nova versã
 #: wp-admin/includes/class-plugin-upgrader.php:355
 msgid "Your WordPress version is %1$s, however the new plugin version requires %2$s."
 msgstr "Sua versão atual do WordPress é %1$s, no entanto o tema enviado requer %2$s."
+
+#. translators: %s: WordPress version.
+#: wp-admin/about.php:66 wp-admin/about.php:91
+msgid "https://wordpress.org/support/wordpress-version/version-%s/"
+msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 
 #: wp-admin/contribute.php:103 wp-admin/credits.php:57 wp-admin/credits.php:65
 msgid "https://make.wordpress.org/contribute/"
@@ -731,7 +736,7 @@ msgid "Be the future of WordPress"
 msgstr "Seja o futuro do WordPress"
 
 #. translators: 1: Learn WordPress link, 2: Workshops link.
-#: wp-admin/about.php:181
+#: wp-admin/about.php:237
 msgid "<a href=\"%1$s\">Learn WordPress</a> is a free resource for new and experienced WordPress users. Learn is stocked with how-to videos on using various features in WordPress, <a href=\"%2$s\">interactive workshops</a> for exploring topics in-depth, and lesson plans for diving deep into specific areas of WordPress."
 msgstr "O <a href=\"%1$s\">Learn WordPress</a> é um ambiente gratuito para usuários novos e experientes do WordPress. O Learn está repleto de tutoriais em vídeo sobre o uso de vários recursos do WordPress, <a href=\"%2$s\">oficinas interativas</a> para explorar tópicos em profundidade e planos de aula para se mergulhar em áreas específicas."
 
@@ -871,17 +876,17 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/keyboard-shortcuts
 msgid "<a href=\"https://wordpress.org/documentation/article/understand-comment-spam/\">Documentation on Comment Spam</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/understand-comment-spam/\">Documentação sobre comentários em spam</a>"
 
-#: wp-admin/customize.php:255
+#: wp-admin/customize.php:257
 msgid "<a href=\"https://wordpress.org/documentation/article/customizer/\">Documentation on Customizer</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/customizer/\">Documentação do Personalizador</a>"
 
 #. translators: The localized WordPress download URL.
-#: wp-admin/about.php:307
+#: wp-admin/about.php:363
 msgid "https://wordpress.org/download/"
 msgstr "https://br.wordpress.org/download/"
 
 #. translators: %s: The major version of WordPress for this branch.
-#: wp-admin/about.php:304
+#: wp-admin/about.php:360
 msgid "This is the final release of WordPress %s"
 msgstr "Esta é a última versão do WordPress %s"
 
@@ -1208,17 +1213,17 @@ msgid "Reach out to WordPress Core developers to ensure you'll never have this p
 msgstr "Entre em contato com os desenvolvedores dos arquivos básicos do WordPress para garantir que nunca mais tenha esse problema."
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:301
+#: wp-admin/about.php:357
 msgid "Important! Your version of WordPress (%1$s) will stop receiving security updates in the near future. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "Importante! Sua versão do WordPress (%1$s) irá parar de receber atualizações de segurança em breve. Para manter seu site seguro, <a href=\"%2$s\">atualize para a mais recente versão do WordPress</a>."
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:298
+#: wp-admin/about.php:354
 msgid "Important! Your version of WordPress (%1$s) is no longer supported, you will not receive any security updates for your website. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "Importante! Sua versão do WordPress (%1$s) não é mais suportada e você não receberá mais atualizações de segurança para seu site. Para manter seu site seguro, <a href=\"%2$s\">atualize para a versão mais recente do WordPress</a>."
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:172
+#: wp-admin/about.php:228
 msgid "Learn more about WordPress %s"
 msgstr "Saiba mais sobre o WordPress %s"
 
@@ -1347,7 +1352,7 @@ msgstr "Ativo"
 
 #: wp-admin/includes/class-core-upgrader.php:162
 #: wp-admin/includes/class-wp-upgrader.php:206
-#: wp-admin/includes/update-core.php:1022
+#: wp-admin/includes/update-core.php:1027
 msgid "The update cannot be installed because some files could not be copied. This is usually due to inconsistent file permissions."
 msgstr "A atualização não pode ser instalada porque não foi possível copiar alguns arquivos. Isso geralmente ocorre devido a permissões de arquivo inconsistentes."
 
@@ -2127,7 +2132,7 @@ msgstr "Adicionar nova senha de aplicativo"
 msgid "Required to create an Application Password, but not to update the user."
 msgstr "Obrigatório para criar uma senha de aplicação, mas não para atualizar o usuário."
 
-#: wp-admin/about.php:242
+#: wp-admin/about.php:298
 msgid "Go to Updates"
 msgstr "Ir para atualizações"
 
@@ -2736,7 +2741,7 @@ msgstr "As atualizações automáticas podem ser ativadas ou desativadas para ve
 msgid "<strong>Important:</strong> Before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating WordPress</a> documentation page."
 msgstr "<strong>Importante:</strong> Antes de atualizar, <a href=\"%1$s\">faça uma cópia de segurança dos seus arquivos e da base de dados</a>. Para obter ajuda com as atualizações, visite a página <a href=\"%2$s\">Atualizando o WordPress</a> da documentação."
 
-#: wp-admin/customize.php:201 wp-admin/theme-install.php:433
+#: wp-admin/customize.php:203 wp-admin/theme-install.php:433
 #: wp-admin/theme-install.php:495 wp-admin/themes.php:631
 #: wp-admin/themes.php:1000 wp-admin/themes.php:1238
 msgctxt "theme"
@@ -3385,7 +3390,7 @@ msgid "The seventh parameter passed to %s should be numeric representing menu po
 msgstr "O sétimo parâmetro passado para %s deve ser um número representando a posição no menu."
 
 #. translators: 1: WordPress version number, 2: The PHP extension name needed.
-#: wp-admin/includes/update-core.php:1122
+#: wp-admin/includes/update-core.php:1127
 msgid "The update cannot be installed because WordPress %1$s requires the %2$s PHP extension."
 msgstr "A atualização não pode ser instalada porque o WordPress %1$s requer a extensão %2$s do PHP."
 
@@ -4145,15 +4150,15 @@ msgstr "Este plugin não foi carregado corretamente e está em pausa durante o m
 msgid "Go to the Themes screen"
 msgstr "Ir para a tela temas"
 
-#: wp-admin/includes/class-wp-debug-data.php:1734
+#: wp-admin/includes/class-wp-debug-data.php:1746
 msgid "Total size is not available. Some errors were encountered when determining the size of your installation."
 msgstr "Tamanho total indisponível. Alguns erros foram encontrados ao tentar determinar o tamanho da sua instalação."
 
-#: wp-admin/includes/class-wp-debug-data.php:1683
+#: wp-admin/includes/class-wp-debug-data.php:1695
 msgid "The size cannot be calculated. The directory is not accessible. Usually caused by invalid permissions."
 msgstr "Não foi possível calcular o tamanho. O diretório não está acessível. Normalmente, isso é causado por permissões inválidas."
 
-#: wp-admin/includes/class-wp-debug-data.php:1690
+#: wp-admin/includes/class-wp-debug-data.php:1702
 msgid "The directory size calculation has timed out. Usually caused by a very large number of sub-directories and files."
 msgstr "O tempo para o cálculo do tamanho do diretório foi excedido. Normalmente, isso é causado por um número muito grande de subdiretórios e arquivos."
 
@@ -4866,7 +4871,7 @@ msgstr "Versão do ImageMagick (número)"
 #: wp-admin/includes/class-wp-debug-data.php:521
 #: wp-admin/includes/class-wp-debug-data.php:543
 #: wp-admin/includes/class-wp-debug-data.php:560
-#: wp-admin/includes/class-wp-debug-data.php:1718 wp-admin/includes/ms.php:803
+#: wp-admin/includes/class-wp-debug-data.php:1730 wp-admin/includes/ms.php:803
 msgid "Not available"
 msgstr "Indisponível"
 
@@ -5290,7 +5295,7 @@ msgstr "Este plugin não funciona com as suas versões do WordPress e do PHP."
 
 #. translators: %s: WordPress version number.
 #. translators: %s: WordPress version.
-#: wp-admin/about.php:224 wp-admin/includes/update.php:324
+#: wp-admin/about.php:280 wp-admin/includes/update.php:324
 #: wp-admin/index.php:119 wp-admin/install.php:249 wp-admin/update-core.php:94
 #: wp-admin/upgrade.php:81
 msgid "https://wordpress.org/documentation/wordpress-version/version-%s/"
@@ -6694,7 +6699,7 @@ msgstr "Você não tem permissão para excluir usuários."
 msgid "Sorry, you are not allowed to create users."
 msgstr "Sem permissão para criar usuários."
 
-#: wp-admin/customize.php:270
+#: wp-admin/customize.php:272
 msgctxt "short (~12 characters) label for hide controls button"
 msgid "Hide Controls"
 msgstr "Esconder controles"
@@ -6768,7 +6773,7 @@ msgstr "Sem permissão para anexar arquivos a este post."
 msgid "https://wordpress.org/plugins/"
 msgstr "https://br.wordpress.org/plugins/"
 
-#: wp-admin/customize.php:250
+#: wp-admin/customize.php:252
 msgid "The Customizer allows you to preview changes to your site before publishing them. You can navigate to different pages on your site within the preview. Edit shortcuts are shown for some editable elements. The Customizer is intended for use with non-block themes."
 msgstr "O Personalizador permite que você visualize as alterações em seu site antes de publicá-las. Você pode navegar para diferentes páginas em seu site na visualização. Os atalhos de edição são mostrados para alguns elementos editáveis. O Personalizador destina-se ao uso com temas sem blocos."
 
@@ -7138,7 +7143,7 @@ msgid "You can filter the list of posts by post status using the text links abov
 msgstr "Você pode filtrar a lista de posts por status utilizando os links acima da lista de posts para exibir apenas os posts daquele status. A visualização padrão exibe todos os posts."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/customize.php:215
+#: wp-admin/customize.php:217
 msgid "Close the Customizer and go back to the previous page"
 msgstr "Fechar o Personalizador e voltar para a página anterior"
 
@@ -7593,7 +7598,7 @@ msgid "(Currently set to: %s)"
 msgstr "(Atualmente definido como: %s) "
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:272
+#: wp-admin/about.php:328
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "A <strong>versão %s</strong> resolveu um problema de segurança."
 
@@ -7605,15 +7610,15 @@ msgstr "https://br.gravatar.com/"
 msgid "Profile Picture"
 msgstr "Foto do perfil"
 
-#: wp-admin/about.php:269
+#: wp-admin/about.php:46 wp-admin/about.php:325
 msgid "Maintenance and Security Releases"
 msgstr "Versões de segurança e manutenção"
 
-#: wp-admin/about.php:266
+#: wp-admin/about.php:322
 msgid "Security Releases"
 msgstr "Atualizações de segurança"
 
-#: wp-admin/about.php:263
+#: wp-admin/about.php:319
 msgid "Maintenance Releases"
 msgstr "Versões de manutenção"
 
@@ -9308,8 +9313,8 @@ msgstr "O seu site em %1$s passou por uma falha crítica ao tentar atualizar o W
 msgid "WordPress %s is also now available."
 msgstr "O WordPress %s também está disponível agora."
 
-#: wp-admin/includes/update-core.php:1206
-#: wp-admin/includes/update-core.php:1242
+#: wp-admin/includes/update-core.php:1211
+#: wp-admin/includes/update-core.php:1247
 msgid "The update cannot be installed because your site is unable to copy some files. This is usually due to inconsistent file permissions."
 msgstr "A atualização não pode ser instalada porque não foi possível copiar alguns arquivos em seu site. Normalmente isto ocorre devido a permissões de arquivo inconsistentes."
 
@@ -9424,7 +9429,7 @@ msgstr "Atualizar traduções"
 msgid "Background updates"
 msgstr "Atualizações em segundo plano"
 
-#: wp-admin/includes/update-core.php:1309
+#: wp-admin/includes/update-core.php:1314
 msgid "There is not enough free disk space to complete the update."
 msgstr "Não há espaço em disco suficiente para completar a atualização."
 
@@ -9502,11 +9507,11 @@ msgstr "O nome de usuário que você forneceu possui caracteres inválidos."
 msgid "Please provide a valid username."
 msgstr "Forneça um nome de usuário válido."
 
-#: wp-admin/includes/update-core.php:1223
+#: wp-admin/includes/update-core.php:1228
 msgid "Copying the required files&#8230;"
 msgstr "Copiando os arquivos necessários&#8230;"
 
-#: wp-admin/includes/update-core.php:1130
+#: wp-admin/includes/update-core.php:1135
 msgid "Preparing to install the latest version&#8230;"
 msgstr "Preparando para instalar a versão mais recente&#8230;"
 
@@ -9749,7 +9754,7 @@ msgstr "O pacote não contém arquivos."
 msgid "To navigate between revisions, <strong>drag the slider handle left or right</strong> or <strong>use the Previous or Next buttons</strong>."
 msgstr "Para navegar entre as revisões, <strong>arraste a barra de rolagem para direita ou esquerda</strong> ou <strong>use os botões Anterior e Próxima</strong>."
 
-#: wp-admin/customize.php:153 wp-admin/includes/class-wp-debug-data.php:453
+#: wp-admin/customize.php:155 wp-admin/includes/class-wp-debug-data.php:453
 #: wp-admin/includes/dashboard.php:1172
 msgid "Loading&hellip;"
 msgstr "Carregando&hellip;"
@@ -10194,7 +10199,7 @@ msgid "Search engine visibility"
 msgstr "Visibilidade nos motores de busca"
 
 #. translators: 1: WordPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:1611 wp-admin/update-core.php:923
+#: wp-admin/includes/update-core.php:1616 wp-admin/update-core.php:923
 msgid "Welcome to WordPress %1$s. You will be redirected to the About WordPress screen. If not, click <a href=\"%2$s\">here</a>."
 msgstr "Bem-vindo(a) ao WordPress %1$s. Você será redirecionado(a) à tela Sobre o WordPress. Se não, clique <a href=\"%2$s\">aqui</a>."
 
@@ -10943,14 +10948,15 @@ msgstr "Digite o endereço de e-mail de um usuário existente nesta rede para co
 msgid "Show Toolbar when viewing site"
 msgstr "Mostrar a barra de ferramentas ao ver site"
 
+#. translators: %s: HelpHub URL.
 #. translators: %s: Documentation URL.
-#: wp-admin/about.php:295
+#: wp-admin/about.php:63 wp-admin/about.php:88 wp-admin/about.php:351
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Para mais informações, veja <a href=\"%s\">as notas de lançamento</a>."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:289
+#: wp-admin/about.php:345
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu alguns problemas de segurança e %2$s bug."
@@ -10958,33 +10964,33 @@ msgstr[1] "A <strong>versão %1$s</strong> corrigiu alguns problemas de seguran�
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:283
+#: wp-admin/about.php:339
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu um problema de segurança e %2$s bug."
 msgstr[1] "A <strong>versão %1$s</strong> corrigiu um problema de segurança e %2$s bugs."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs.
-#: wp-admin/about.php:277
+#: wp-admin/about.php:51 wp-admin/about.php:76 wp-admin/about.php:333
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu %2$s bug."
 msgstr[1] "A <strong>versão %1$s</strong> corrigiu %2$s bugs."
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:274
+#: wp-admin/about.php:330
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "A <strong>versão %s</strong> corrigiu alguns problemas de segurança."
 
-#: wp-admin/about.php:268
+#: wp-admin/about.php:324
 msgid "Maintenance and Security Release"
 msgstr "Versão de segurança e manutenção"
 
-#: wp-admin/about.php:265
+#: wp-admin/about.php:321
 msgid "Security Release"
 msgstr "Versão de segurança"
 
-#: wp-admin/about.php:262
+#: wp-admin/about.php:318
 msgid "Maintenance Release"
 msgstr "Versão de manutenção"
 
@@ -10998,7 +11004,7 @@ msgid "This screen allows you to choose your permalink structure. You can choose
 msgstr "Esta tela permite que você escolha a estrutura padrão para seu links permanentes. Você pode escolher a partir de uma das opções padrão ou criar uma estrutura de URL personalizada."
 
 #. translators: 1: WordPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:1619 wp-admin/update-core.php:931
+#: wp-admin/includes/update-core.php:1624 wp-admin/update-core.php:931
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "Bem-vindo ao WordPress%1$s. <a href=\"%2$s\">Saiba mais</a>."
 
@@ -11258,15 +11264,15 @@ msgid "Because this is a multisite installation, you may add accounts that alrea
 msgstr "Porque esta é uma instalação multisite, você pode adicionar contas que já existem na rede, especificando um nome de usuário ou e-mail e definindo o seu papel. Para obter mais opções, como especificar uma senha, você tem que ser um administrador de rede e use o link sob o nome de um usuário existente para editar o perfil do usuário em Administração de Rede > Todos os Usuários."
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:50
+#: wp-admin/about.php:106
 msgid "Welcome to WordPress %s"
 msgstr "Boas-vindas ao WordPress %s"
 
-#: wp-admin/about.php:249
+#: wp-admin/about.php:305
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Ir para Painel &rarr; Início"
 
-#: wp-admin/about.php:242
+#: wp-admin/about.php:298
 msgid "Go to Dashboard &rarr; Updates"
 msgstr "Ir para o Painel &rarr; Atualizações"
 
@@ -12962,7 +12968,7 @@ msgid "User already exists. Password inherited."
 msgstr "O usuário já existe. Senha herdada."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:529
-#: wp-admin/includes/update-core.php:1605 wp-admin/update-core.php:919
+#: wp-admin/includes/update-core.php:1610 wp-admin/update-core.php:919
 msgid "WordPress updated successfully."
 msgstr "O WordPress foi atualizado."
 
@@ -12991,7 +12997,7 @@ msgstr "Atualizações do WordPress"
 msgid "Edit menu item"
 msgstr "Editar item do menu"
 
-#: wp-admin/about.php:249
+#: wp-admin/about.php:305
 msgid "Go to Dashboard"
 msgstr "Ir para o painel"
 
@@ -14169,34 +14175,34 @@ msgstr "Atualizar para %s"
 msgid "You are using a development version (%1$s). Cool! Please <a href=\"%2$s\">stay updated</a>."
 msgstr "Você está usando uma versão para desenvolvedores (%1$s). Legal! <a href=\"%2$s\">Mantenha-se atualizado</a>."
 
-#: wp-admin/includes/update-core.php:1478
+#: wp-admin/includes/update-core.php:1483
 msgid "Upgrading database&#8230;"
 msgstr "Atualizando banco de dados&#8230;"
 
-#: wp-admin/includes/update-core.php:1006
+#: wp-admin/includes/update-core.php:1011
 msgid "The update could not be unpacked"
 msgstr "A atualização não pode ser descompactada"
 
-#: wp-admin/includes/update-core.php:988
+#: wp-admin/includes/update-core.php:993
 msgid "Verifying the unpacked files&#8230;"
 msgstr "Verificando arquivos descompactados&#8230;"
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version
 #. number, 3: Current MySQL version number.
-#: wp-admin/includes/update-core.php:1108
+#: wp-admin/includes/update-core.php:1113
 msgid "The update cannot be installed because WordPress %1$s requires MySQL version %2$s or higher. You are running version %3$s."
 msgstr "A atualização não pode ser instalada, porque o WordPress %1$s necessita a versão %2$s ou mais recente do MySQL. Você está usando a versão %3$s."
 
 #. translators: 1: WordPress version number, 2: Minimum required PHP version
 #. number, 3: Current PHP version number.
-#: wp-admin/includes/update-core.php:1097
+#: wp-admin/includes/update-core.php:1102
 msgid "The update cannot be installed because WordPress %1$s requires PHP version %2$s or higher. You are running version %3$s."
 msgstr "A atualização não pode ser instalada, porque o WordPress %1$s necessita a versão %2$s ou mais recente do PHP. Você está usando a versão %3$s."
 
 #. translators: 1: WordPress version number, 2: Minimum required PHP version
 #. number, 3: Minimum required MySQL version number, 4: Current PHP version
 #. number, 5: Current MySQL version number.
-#: wp-admin/includes/update-core.php:1084
+#: wp-admin/includes/update-core.php:1089
 msgid "The update cannot be installed because WordPress %1$s requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
 msgstr "A atualização não pode ser instalada porque o WordPress %1$s necessita a versão %2$s ou mais recente do PHP e a versão %3$s ou mais recente do MySQL. Você está usando a versão %4$s do PHP e a %5$s do MySQL."
 
@@ -15099,7 +15105,7 @@ msgid "Empty archive."
 msgstr "Arquivo vazio."
 
 #: wp-admin/includes/file.php:1837 wp-admin/includes/file.php:1991
-#: wp-admin/includes/file.php:2049 wp-admin/includes/update-core.php:1416
+#: wp-admin/includes/file.php:2049 wp-admin/includes/update-core.php:1421
 msgid "Could not copy file."
 msgstr "Não foi possível copiar o arquivo."
 
@@ -15409,12 +15415,12 @@ msgid "The plugin is at the latest version."
 msgstr "O plugin está na sua versão mais recente."
 
 #: wp-admin/includes/class-wp-upgrader.php:209
-#: wp-admin/includes/update-core.php:1363
+#: wp-admin/includes/update-core.php:1368
 msgid "Disabling Maintenance mode&#8230;"
 msgstr "Desativando modo de manutenção&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:208
-#: wp-admin/includes/update-core.php:1214
+#: wp-admin/includes/update-core.php:1219
 msgid "Enabling Maintenance mode&#8230;"
 msgstr "Ativando modo de manutenção&#8230;"
 
