@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.6.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-03 12:41:18+0000\n"
+"PO-Revision-Date: 2024-10-22 23:08:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +16,7 @@ msgstr ""
 #, gp-priority: high
 msgctxt "start of week"
 msgid "1"
-msgstr "0"
+msgstr "1"
 
 #. translators: default GMT offset or timezone string. Must be either a valid
 #. offset (-12 to 14) or a valid timezone string (America/New_York). See
@@ -36,6 +36,95 @@ msgstr "0"
 msgctxt "default GMT offset or timezone string"
 msgid "0"
 msgstr "America/Sao_Paulo"
+
+#: wp-admin/includes/class-wp-debug-data.php:1678
+msgid "The directory does not exist."
+msgstr "O diretório não existe."
+
+#: wp-admin/update-core.php:1048
+msgid "<a href=\"https://developer.wordpress.org/advanced-administration/wordpress/common-errors/\">Common Errors</a>"
+msgstr "<a href=\"https://developer.wordpress.org/advanced-administration/wordpress/common-errors/\">Erros comuns</a>"
+
+#: wp-admin/theme-editor.php:54
+msgid "<a href=\"https://developer.wordpress.org/advanced-administration/wordpress/edit-files/\">Documentation on Editing Files</a>"
+msgstr "<a href=\"https://developer.wordpress.org/advanced-administration/wordpress/edit-files/\">Documentação sobre a edição de arquivos</a>"
+
+#: wp-admin/plugin-editor.php:151
+msgid "<a href=\"https://developer.wordpress.org/advanced-administration/plugins/editor-screen/\">Documentation on Editing Plugins</a>"
+msgstr "<a href=\"https://developer.wordpress.org/advanced-administration/plugins/editor-screen/\">Documentação sobre a edição de plugins</a>"
+
+#: wp-admin/options.php:330
+msgid "https://developer.wordpress.org/plugins/settings/settings-api/"
+msgstr "https://developer.wordpress.org/plugins/settings/settings-api/"
+
+#: wp-admin/options-writing.php:228 wp-admin/options-writing.php:242
+msgid "https://developer.wordpress.org/advanced-administration/wordpress/update-services/"
+msgstr "https://developer.wordpress.org/advanced-administration/wordpress/update-services/"
+
+#: wp-admin/options-reading.php:35 wp-admin/options-reading.php:200
+msgid "https://developer.wordpress.org/advanced-administration/wordpress/feeds/"
+msgstr "https://developer.wordpress.org/advanced-administration/wordpress/feeds/"
+
+#: wp-admin/options-permalink.php:64
+msgid "<a href=\"https://developer.wordpress.org/advanced-administration/server/web-server/nginx/\">Documentation on Nginx configuration</a>."
+msgstr "<a href=\"https://developer.wordpress.org/advanced-administration/server/web-server/nginx/\">Documentação sobre a configuração do Nginx</a>."
+
+#: wp-admin/options-general.php:35 wp-admin/options-general.php:238
+msgid "https://developer.wordpress.org/advanced-administration/server/wordpress-in-directory/"
+msgstr "https://developer.wordpress.org/advanced-administration/server/wordpress-in-directory/"
+
+#: wp-admin/includes/ms.php:1172 wp-admin/network/site-new.php:32
+#: wp-admin/network/sites.php:44
+msgid "<a href=\"https://developer.wordpress.org/advanced-administration/multisite/admin/#network-admin-sites-screen\">Documentation on Site Management</a>"
+msgstr "<a href=\"https://developer.wordpress.org/advanced-administration/multisite/admin/#network-admin-sites-screen\">Documentação sobre a gestão de sites</a>"
+
+#: wp-admin/includes/file.php:329 wp-admin/options-permalink.php:468
+#: wp-admin/options-permalink.php:500 wp-admin/options-permalink.php:536
+#: wp-admin/plugin-editor.php:326 wp-admin/setup-config.php:487
+#: wp-admin/theme-editor.php:362
+msgid "https://developer.wordpress.org/advanced-administration/server/file-permissions/"
+msgstr "https://developer.wordpress.org/advanced-administration/server/file-permissions/"
+
+#: wp-admin/includes/class-wp-site-health.php:2675
+msgid "https://developer.wordpress.org/advanced-administration/performance/optimization/#autoloaded-options"
+msgstr "https://developer.wordpress.org/advanced-administration/performance/optimization/#autoloaded-options"
+
+#. translators: Localized Support reference.
+#: wp-admin/includes/class-wp-site-health.php:2510
+msgid "https://developer.wordpress.org/advanced-administration/performance/optimization/#persistent-object-cache"
+msgstr "https://developer.wordpress.org/advanced-administration/performance/optimization/#persistent-object-cache"
+
+#: wp-admin/includes/class-wp-site-health.php:2401
+msgid "https://developer.wordpress.org/advanced-administration/performance/optimization/#caching"
+msgstr "https://developer.wordpress.org/advanced-administration/performance/optimization/#caching"
+
+#: wp-admin/includes/class-wp-debug-data.php:493
+msgid "Fonts directory location"
+msgstr "Localização do diretório de fontes"
+
+#: wp-admin/includes/class-plugin-installer-skin.php:302
+#: wp-admin/includes/class-plugin-installer-skin.php:308
+#: wp-admin/includes/class-theme-installer-skin.php:337
+#: wp-admin/includes/class-theme-installer-skin.php:343
+#: wp-admin/update-core.php:261
+msgid "https://developer.wordpress.org/advanced-administration/security/backup/"
+msgstr "https://developer.wordpress.org/advanced-administration/security/backup/"
+
+#: wp-admin/about.php:212
+msgid "See everything new"
+msgstr "Conheça as novidades"
+
+#: wp-admin/about.php:212
+msgid "https://wordpress.org/download/releases/6-6/"
+msgstr "https://wordpress.org/download/releases/6-6/"
+
+#: wp-admin/about.php:206
+msgid "And much more"
+msgstr "E muito mais"
+
+#: wp-admin/about.php:144
+msgid "Auto-update your plugins with peace of mind."
+msgstr "Atualize seus plugins automaticamente com tranquilidade."
 
 #: wp-admin/menu.php:209
 msgctxt "patterns menu item"
@@ -501,6 +590,11 @@ msgstr "O diretório de backup temporário do plugin e do tema é gravável"
 #: wp-admin/includes/class-wp-site-health.php:1839
 msgid "Could not determine available disk space for updates."
 msgstr "Não foi possível determinar o espaço em disco disponível para atualizações."
+
+#. translators: %s: Available disk space in MB or GB.
+#: wp-admin/includes/class-wp-site-health.php:1851
+msgid "Available disk space is low, less than %s available."
+msgstr "O espaço em disco disponível é baixo, menos de %s disponível."
 
 #. translators: %s: Available disk space in MB or GB.
 #: wp-admin/includes/class-wp-site-health.php:1831
@@ -1221,6 +1315,10 @@ msgstr "Importante! Sua versão do WordPress (%1$s) irá parar de receber atuali
 #: wp-admin/about.php:354
 msgid "Important! Your version of WordPress (%1$s) is no longer supported, you will not receive any security updates for your website. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "Importante! Sua versão do WordPress (%1$s) não é mais suportada e você não receberá mais atualizações de segurança para seu site. Para manter seu site seguro, <a href=\"%2$s\">atualize para a versão mais recente do WordPress</a>."
+
+#: wp-admin/about.php:259
+msgid "https://make.wordpress.org/core/wordpress-6-6-field-guide/"
+msgstr "https://make.wordpress.org/core/wordpress-6-6-field-guide/"
 
 #. translators: %s: Version number.
 #: wp-admin/about.php:228
@@ -12574,6 +12672,10 @@ msgstr "Você pode ocultar/exibir colunas com base em suas necessidades e decidi
 #: wp-admin/users.php:44
 msgid "You can customize the display of this screen in a number of ways:"
 msgstr "Você pode personalizar a exibição da tela de várias maneiras:"
+
+#: wp-admin/plugins.php:793
+msgid "Search installed plugins"
+msgstr "Pesquisar plugins instalados"
 
 #: wp-admin/nav-menus.php:832
 msgid "Your theme supports one menu. Select which menu you would like to use."

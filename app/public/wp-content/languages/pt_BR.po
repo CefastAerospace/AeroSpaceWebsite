@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.6.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-15 01:46:00+0000\n"
+"PO-Revision-Date: 2024-10-21 17:22:37+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1059,7 +1059,7 @@ msgstr "\"%1$s\" de %3$s em %2$s não é uma string HEX ou RGB."
 #: wp-includes/class-wp-customize-manager.php:5207
 #: wp-admin/options-general.php:202
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr "O ícone do site é o que você vê nas guias do navegador, nas barras de favoritos e nos aplicativos móveis do WordPress. Deve ser quadrado e ter pelo menos %s pixels."
+msgstr "O ícone do site é o que você vê nas abas do navegador, nas barras de favoritos e nos aplicativos móveis do WordPress. Deve ser quadrado e ter pelo menos %s pixels."
 
 #. translators: %s: Block bindings source name.
 #: wp-includes/class-wp-block-bindings-registry.php:222
